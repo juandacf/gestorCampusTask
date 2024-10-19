@@ -5,7 +5,7 @@ def createUser (mainDict):
     constructor= {
         'userName': userName,
         'password': password,
-        'lists': {
+        'boards': {
 
         }
     }
